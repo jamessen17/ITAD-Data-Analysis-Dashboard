@@ -1,0 +1,23 @@
+,,final_sale_price_usd,final_sale_price_usd,final_sale_price_usd,carbon_savings_kg,refurbishment_success
+,,mean,sum,count,sum,mean
+region,sales_channel,,,,,
+Asia Pacific,B2B Direct,1997.2,2204912.17,1104,327908.16,0.72
+Asia Pacific,Online Marketplace,777.31,591533.57,761,208171.32,0.71
+Asia Pacific,Refurb Specialist,1387.63,319155.84,230,64043.09,0.71
+Asia Pacific,Retail Partner,962.14,355031.5,369,115018.12,0.74
+Europe,B2B Direct,2544.39,3228826.01,1269,368979.97,0.72
+Europe,Online Marketplace,957.39,831018.07,868,244060.52,0.72
+Europe,Refurb Specialist,1709.57,422263.15,247,68316.12,0.72
+Europe,Retail Partner,1219.62,504921.23,414,123259.09,0.71
+Latin America,B2B Direct,1697.8,638373.44,376,116658.98,0.75
+Latin America,Online Marketplace,575.81,145102.99,252,65835.51,0.71
+Latin America,Refurb Specialist,1126.13,83333.38,74,21510.45,0.78
+Latin America,Retail Partner,680.81,77612.08,114,32449.26,0.71
+Middle East & Africa,B2B Direct,1672.03,304310.16,182,52189.88,0.74
+Middle East & Africa,Online Marketplace,747.65,83737.26,112,35678.04,0.71
+Middle East & Africa,Refurb Specialist,2178.65,89324.74,41,15019.57,0.8
+Middle East & Africa,Retail Partner,1006.68,53353.89,53,16607.84,0.85
+North America,B2B Direct,2631.06,4178124.9,1588,452860.67,0.72
+North America,Online Marketplace,1090.48,1164636.17,1068,301488.03,0.74
+North America,Refurb Specialist,1946.87,693087.13,356,104650.54,0.68
+North America,Retail Partner,1334.65,696688.43,522,153248.49,0.73
